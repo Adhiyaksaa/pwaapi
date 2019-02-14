@@ -1,0 +1,14 @@
+{
+"animals":[
+{"id":1,"name":"Sportive lemur","category":"Turquoise"},
+{"id":2,"name":"Red squirrel","category":"Violet"},
+{"id":3,"name":"Red-billed tropic bird","category":"Teal"},
+{"id":4,"name":"Gecko, tokay","category":"Turquoise"},
+{"id":5,"name":"Deer, mule","category":"Yellow"},
+{"id":6,"name":"Red-billed tropic bird","category":"Crimson"},
+{"id":7,"name":"Fox, blue","category":"Violet"},
+{"id":8,"name":"Chickadee, black-capped","category":"Orange"},
+{"id":9,"name":"Weaver, white-browed sparrow","category":"Pink"},
+{"id":10,"name":"Hawk-eagle, crowned","category":"Blue"}
+]
+}
